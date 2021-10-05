@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shezi-ReactTodoAppUsingFirestore/static/css/main.b12aa731.chunk.css",
+    "main.js": "/Shezi-ReactTodoAppUsingFirestore/static/js/main.c1dc4c4f.chunk.js",
+    "main.js.map": "/Shezi-ReactTodoAppUsingFirestore/static/js/main.c1dc4c4f.chunk.js.map",
+    "runtime-main.js": "/Shezi-ReactTodoAppUsingFirestore/static/js/runtime-main.b3b31d28.js",
+    "runtime-main.js.map": "/Shezi-ReactTodoAppUsingFirestore/static/js/runtime-main.b3b31d28.js.map",
+    "static/js/2.9cd84475.chunk.js": "/Shezi-ReactTodoAppUsingFirestore/static/js/2.9cd84475.chunk.js",
+    "static/js/2.9cd84475.chunk.js.map": "/Shezi-ReactTodoAppUsingFirestore/static/js/2.9cd84475.chunk.js.map",
+    "static/js/3.e467f121.chunk.js": "/Shezi-ReactTodoAppUsingFirestore/static/js/3.e467f121.chunk.js",
+    "static/js/3.e467f121.chunk.js.map": "/Shezi-ReactTodoAppUsingFirestore/static/js/3.e467f121.chunk.js.map",
+    "index.html": "/Shezi-ReactTodoAppUsingFirestore/index.html",
+    "static/css/main.b12aa731.chunk.css.map": "/Shezi-ReactTodoAppUsingFirestore/static/css/main.b12aa731.chunk.css.map",
+    "static/js/2.9cd84475.chunk.js.LICENSE.txt": "/Shezi-ReactTodoAppUsingFirestore/static/js/2.9cd84475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b31d28.js",
+    "static/js/2.9cd84475.chunk.js",
+    "static/css/main.b12aa731.chunk.css",
+    "static/js/main.c1dc4c4f.chunk.js"
+  ]
+}
